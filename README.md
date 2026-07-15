@@ -36,7 +36,7 @@ Clone this repo into the workspace's `src` folder:
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/maya-fakih/multi_sensor_pipeline.git multi_sensor_pipeline
+git clone https://github.com/maya-fakih/multi_sensor_pipeline.git
 ```
 
 ## Build
