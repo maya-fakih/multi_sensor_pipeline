@@ -1,6 +1,6 @@
 /imu/sensor_driver:
   ros__parameters:
-    publish_rate_hz: 5.0
+    publish_rate_hz: 50.0
 
 /imu/filter_node:
   ros__parameters:
