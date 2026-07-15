@@ -1,0 +1,11 @@
+/imu/sensor_driver:
+  ros__parameters:
+    publish_rate_hz: 5.0
+
+/imu/filter_node:
+  ros__parameters:
+    window_size: 50
+
+/imu/logger_node:
+  ros__parameters:
+    publish_rate_hz: 1.0
