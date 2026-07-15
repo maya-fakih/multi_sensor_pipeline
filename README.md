@@ -85,7 +85,7 @@ All tunable values live in `config/imu_pipeline.yaml`:
 
 /imu/filter_node:
   ros__parameters:
-    window_size: 50
+    window_size: 10
 
 /imu/logger_node:
   ros__parameters:
